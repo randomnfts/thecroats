@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #94",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/94.png",
+  "dna": "179a7bdf95fce93628595cba882932f343e852e0",
+  "edition": 94,
+  "date": 1672317921104,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife 2"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Bubble gum"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #42",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/42.png",
+  "dna": "037d176b85f81d23db58f5d3c6b4c917be77c131",
+  "edition": 42,
+  "date": 1672317920952,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short"
+    }
+  ]
+}

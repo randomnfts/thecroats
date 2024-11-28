@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1603",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1603.png",
+  "dna": "80e6cd8412a2dc5de0441f0f3fb72f2b2e4a61cc",
+  "edition": 1603,
+  "date": 1672317913015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bearskin"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

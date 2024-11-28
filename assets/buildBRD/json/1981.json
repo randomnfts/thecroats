@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1981",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1981.png",
+  "dna": "b62209bb3066bfab17be652ed93fb71edf10f0f4",
+  "edition": 1981,
+  "date": 1672317772965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flower hat"
+    }
+  ]
+}

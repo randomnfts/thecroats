@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #249",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/249.png",
+  "dna": "29d99f9ba28da78f2cbf19fc9f1e173a9bb2f295",
+  "edition": 249,
+  "date": 1672317919398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flowers"
+    }
+  ]
+}

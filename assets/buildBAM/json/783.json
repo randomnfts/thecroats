@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #783",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/783.png",
+  "dna": "7f454098a032776fcaf7d67c50900e4e477526d5",
+  "edition": 783,
+  "date": 1672317921223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly red"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1018",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1018.png",
+  "dna": "749d8f2af9e1426e848b965a7cff51f4f4fe7069",
+  "edition": 1018,
+  "date": 1672317919653,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hot lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}

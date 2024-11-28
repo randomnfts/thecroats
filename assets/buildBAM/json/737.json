@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #737",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/737.png",
+  "dna": "5a4324d79d0ace1a0c9030a877cd89ee6c2e4abe",
+  "edition": 737,
+  "date": 1672317911816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
+    }
+  ]
+}

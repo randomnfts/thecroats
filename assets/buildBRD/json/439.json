@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #439",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/439.png",
+  "dna": "c0fa2e64830f9ba45491f65de69c5ffff66daf90",
+  "edition": 439,
+  "date": 1672317767810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Rosy cheeks"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    }
+  ]
+}

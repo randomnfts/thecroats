@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #6",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/6.png",
+  "dna": "92cb4a734b6ed0aaef30a5880ae22164c0df3ea3",
+  "edition": 6,
+  "date": 1672317911970,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

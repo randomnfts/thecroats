@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1819",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1819.png",
+  "dna": "71d6975e8ec8ec16db45c8e3ebff9e98b85d1afa",
+  "edition": 1819,
+  "date": 1672317770420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Croarmy"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

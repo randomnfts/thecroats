@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1847",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1847.png",
+  "dna": "48e08911349deaa4a64a2b410e4f140ce7593ff8",
+  "edition": 1847,
+  "date": 1672317773804,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black with headband"
+    }
+  ]
+}

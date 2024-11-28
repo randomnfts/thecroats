@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #424",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/424.png",
+  "dna": "dcf01a495d752d4230122bf06b0a4dec353290d6",
+  "edition": 424,
+  "date": 1672317771120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Bubblegum"
+    }
+  ]
+}

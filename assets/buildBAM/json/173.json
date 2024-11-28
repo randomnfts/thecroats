@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #173",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/173.png",
+  "dna": "d2202cf7cf9c17ec0bafc8595f58e90b1e225670",
+  "edition": 173,
+  "date": 1672317918439,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Bubble gum"
+    }
+  ]
+}

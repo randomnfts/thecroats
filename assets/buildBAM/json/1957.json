@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1957",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1957.png",
+  "dna": "cd173c986208b1e6a046d7dbfafa69a64ad309c4",
+  "edition": 1957,
+  "date": 1672317920624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight blonde"
+    }
+  ]
+}

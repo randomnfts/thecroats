@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1864",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1864.png",
+  "dna": "5f12bdb3b67591e6b855f1670b4e4b23efb36296",
+  "edition": 1864,
+  "date": 1672317767345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    }
+  ]
+}

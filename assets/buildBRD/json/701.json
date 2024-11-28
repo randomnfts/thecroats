@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #701",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/701.png",
+  "dna": "f9d4cd47ab99fbffc014e1d8c74f026dfa4f60f1",
+  "edition": 701,
+  "date": 1672317772718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #175",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/175.png",
+  "dna": "0120dd346ca0d6599074c89c81d40b80e18f5c6a",
+  "edition": 175,
+  "date": 1672317765555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustasha"
+    }
+  ]
+}

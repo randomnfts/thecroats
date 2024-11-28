@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #270",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/270.png",
+  "dna": "4e47fa56637b174b4c031385e23db5fe00ad767a",
+  "edition": 270,
+  "date": 1672317773687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red lipstick"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flower hat"
+    }
+  ]
+}

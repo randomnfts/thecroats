@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #28",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/28.png",
+  "dna": "bf469b186691b2e31c04e91b57db8f229adfb64d",
+  "edition": 28,
+  "date": 1672317917718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    }
+  ]
+}

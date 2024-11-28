@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #106",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/106.png",
+  "dna": "8006b417dd1c1def56c6906251920f63fd619a68",
+  "edition": 106,
+  "date": 1672317766894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    }
+  ]
+}

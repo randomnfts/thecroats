@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1984",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1984.png",
+  "dna": "eb90042fc159d46e747eb2ea8329c0bea5332bd3",
+  "edition": 1984,
+  "date": 1672317914219,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk dark"
+    }
+  ]
+}

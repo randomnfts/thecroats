@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1584",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1584.png",
+  "dna": "5e707fe7a82d5758dc45d9eadda128068d97b4ff",
+  "edition": 1584,
+  "date": 1672317920827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange side"
+    }
+  ]
+}

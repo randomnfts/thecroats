@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1115",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1115.png",
+  "dna": "9128e88f6663fe7c073b05040708b45a4a959092",
+  "edition": 1115,
+  "date": 1672317775627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vampire"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #761",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/761.png",
+  "dna": "f2b8759c32c175d35c82131d2da7ca66e7db0d59",
+  "edition": 761,
+  "date": 1672317914965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Doctor"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1715",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1715.png",
+  "dna": "dce0c1b092e19445fcfa352e451baed2fe037537",
+  "edition": 1715,
+  "date": 1672317771622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 5"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1859",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1859.png",
+  "dna": "68ace7f0ad02edc828c13a8cd7619e2edfd5b34a",
+  "edition": 1859,
+  "date": 1672317766846,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd glasses"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Partisan"
+    }
+  ]
+}

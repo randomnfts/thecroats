@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1956",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1956.png",
+  "dna": "f5c1908051316f9368cdf36ed7f56761ae51cc09",
+  "edition": 1956,
+  "date": 1672317771853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Baseball"
+    }
+  ]
+}

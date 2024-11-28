@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #914",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/914.png",
+  "dna": "ef19a3d3a769a8f0cb80d2fcef7fdcacee34d6a2",
+  "edition": 914,
+  "date": 1672317917834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde short"
+    }
+  ]
+}

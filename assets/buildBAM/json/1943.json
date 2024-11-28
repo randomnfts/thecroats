@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1943",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1943.png",
+  "dna": "a92f1a2181fc74e421ac99be8ce99e8eb9286efd",
+  "edition": 1943,
+  "date": 1672317914902,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk dark"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

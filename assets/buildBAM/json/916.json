@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #916",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/916.png",
+  "dna": "92dd4ae05f6d2890253ccc717455ef5ce9500c02",
+  "edition": 916,
+  "date": 1672317920743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd glasses"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight dark"
+    }
+  ]
+}

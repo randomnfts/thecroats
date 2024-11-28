@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #971",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/971.png",
+  "dna": "49bd6fc1f57e6d4a0cea9a0d71828daf38cccc7d",
+  "edition": 971,
+  "date": 1672317920010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black with headband"
+    }
+  ]
+}

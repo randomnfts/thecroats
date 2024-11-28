@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1080",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1080.png",
+  "dna": "00b470fefbf17f6fe82b7d807c46f34fd1ae3094",
+  "edition": 1080,
+  "date": 1672317765662,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 5"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustasha"
+    }
+  ]
+}

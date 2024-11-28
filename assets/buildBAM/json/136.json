@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #136",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/136.png",
+  "dna": "ead750740f3fdf55c8b878d93795f557b75c6a4e",
+  "edition": 136,
+  "date": 1672317916370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly"
+    }
+  ]
+}

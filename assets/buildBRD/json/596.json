@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #596",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/596.png",
+  "dna": "7aead5b090f4bbf541b55da50d7afe72cab4bb21",
+  "edition": 596,
+  "date": 1672317772778,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hot lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight blonde"
+    }
+  ]
+}

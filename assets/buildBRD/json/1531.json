@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1531",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1531.png",
+  "dna": "b71d185435748134a3620de73e1e51a85f6e18eb",
+  "edition": 1531,
+  "date": 1672317774569,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple eyeshadow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bow"
+    }
+  ]
+}

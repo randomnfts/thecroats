@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #958",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/958.png",
+  "dna": "96918e458699cf80924ba3fd58656a8b99b503f8",
+  "edition": 958,
+  "date": 1672317910989,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sibenik"
+    }
+  ]
+}

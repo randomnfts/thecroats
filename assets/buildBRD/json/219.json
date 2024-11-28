@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #219",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/219.png",
+  "dna": "c172e784c0b383d506c992ba568398a55e3200c1",
+  "edition": 219,
+  "date": 1672317774022,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bob"
+    }
+  ]
+}

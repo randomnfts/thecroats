@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1109",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1109.png",
+  "dna": "d010eb0d1bbd1a783cfa3efed34090fa38cd04ea",
+  "edition": 1109,
+  "date": 1672317766716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustashe"
+    }
+  ]
+}

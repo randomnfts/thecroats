@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1160",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1160.png",
+  "dna": "a8c135d5205595dbe1c2b08f4c4104679845facd",
+  "edition": 1160,
+  "date": 1672317914239,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fireman"
+    }
+  ]
+}

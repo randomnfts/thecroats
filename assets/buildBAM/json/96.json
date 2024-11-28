@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #96",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/96.png",
+  "dna": "a7e8dc9e79ec70cf33c6931784f116aa21f1936b",
+  "edition": 96,
+  "date": 1672317913814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stringy"
+    }
+  ]
+}

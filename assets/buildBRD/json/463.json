@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #463",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/463.png",
+  "dna": "ad02540b3e58802abea3369feeb5cd18b27ccf24",
+  "edition": 463,
+  "date": 1672317769563,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stringy"
+    }
+  ]
+}

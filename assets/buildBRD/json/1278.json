@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1278",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1278.png",
+  "dna": "23108c3e46460ba213f2dba220d38b413ddecbc7",
+  "edition": 1278,
+  "date": 1672317774436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde 2"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

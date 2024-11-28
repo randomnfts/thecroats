@@ -1,0 +1,38 @@
+{
+  "name": "The Croats #406",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/406.png",
+  "dna": "eb43c97c5873b146e24f22e1c9c5ebefe3c6eb12",
+  "edition": 406,
+  "date": 1672317765048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Mask"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1343",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1343.png",
+  "dna": "76b9aee4ca82740c67538beb63996b4c08e4cb12",
+  "edition": 1343,
+  "date": 1672317920547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bow"
+    }
+  ]
+}

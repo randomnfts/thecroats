@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #365",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/365.png",
+  "dna": "daf2bd44e8d89c6d38bc08e92391f20b659e40e5",
+  "edition": 365,
+  "date": 1672317775618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Piercing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife"
+    }
+  ]
+}

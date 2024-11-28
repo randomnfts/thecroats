@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1894",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1894.png",
+  "dna": "41e30d174a5e54670181795f93aa488e57e9a480",
+  "edition": 1894,
+  "date": 1672317910767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Rosy cheeks"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Croarmy"
+    }
+  ]
+}

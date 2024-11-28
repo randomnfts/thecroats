@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #572",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/572.png",
+  "dna": "46c8977ce5b6c679e6b96a4478bc6272cfabe269",
+  "edition": 572,
+  "date": 1672317918137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}

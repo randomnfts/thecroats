@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #14",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/14.png",
+  "dna": "8a73d3f877d219fee03daac3043076289e6e4a8f",
+  "edition": 14,
+  "date": 1672317771989,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Clown nose"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stringy"
+    }
+  ]
+}

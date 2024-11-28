@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1111",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1111.png",
+  "dna": "6cb82b7eb2660c8361f1a29b0648665c634467fc",
+  "edition": 1111,
+  "date": 1672317921610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange side"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1907",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1907.png",
+  "dna": "9b5e0861ac98cd01c811d4f5ed58f546f2a08e45",
+  "edition": 1907,
+  "date": 1672317913944,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Standard grey"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Seaman"
+    }
+  ]
+}

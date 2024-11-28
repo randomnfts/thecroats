@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #900",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/900.png",
+  "dna": "87e57c4921094fdac9144036a78208dfb882a5b0",
+  "edition": 900,
+  "date": 1672317772838,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple eyeshadow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde 2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #880",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/880.png",
+  "dna": "64bf79758a69c868a4c14580bd94a25c12266155",
+  "edition": 880,
+  "date": 1672317772437,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fisherman"
+    }
+  ]
+}

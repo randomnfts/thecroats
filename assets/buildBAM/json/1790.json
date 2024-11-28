@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1790",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1790.png",
+  "dna": "5ac61c34c914225df58c91ee70b206ad120a612c",
+  "edition": 1790,
+  "date": 1672317914030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk dark"
+    }
+  ]
+}

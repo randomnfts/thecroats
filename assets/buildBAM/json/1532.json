@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1532",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1532.png",
+  "dna": "dfc4746e78a25ccd387c9954e34b885b0298f580",
+  "edition": 1532,
+  "date": 1672317911914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

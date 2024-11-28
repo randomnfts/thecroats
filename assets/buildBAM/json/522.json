@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #522",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/522.png",
+  "dna": "a012e6710a711c370212a4f877fc00ded69fdca0",
+  "edition": 522,
+  "date": 1672317911839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short grey"
+    }
+  ]
+}

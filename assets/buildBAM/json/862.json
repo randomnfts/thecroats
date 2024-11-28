@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #862",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/862.png",
+  "dna": "fd62ec375ca17141821479daf4c9a82c2e2acec0",
+  "edition": 862,
+  "date": 1672317920785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife"
+    }
+  ]
+}

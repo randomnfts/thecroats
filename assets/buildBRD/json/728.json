@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #728",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/728.png",
+  "dna": "4c88c77ceb15efb0d22d8d5635d6ddcc4ee6e1c9",
+  "edition": 728,
+  "date": 1672317766972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Partisan"
+    }
+  ]
+}

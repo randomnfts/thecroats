@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1927",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1927.png",
+  "dna": "9577cf53e06984cd6381a106de7c5c84a8483f4b",
+  "edition": 1927,
+  "date": 1672317915362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short"
+    }
+  ]
+}

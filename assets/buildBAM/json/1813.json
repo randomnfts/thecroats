@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1813",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1813.png",
+  "dna": "04d2a972eae1c25f7712e5c9630ce6b12c8becca",
+  "edition": 1813,
+  "date": 1672317921535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange side"
+    }
+  ]
+}

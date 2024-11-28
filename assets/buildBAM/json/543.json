@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #543",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/543.png",
+  "dna": "d728e31be9eaa46e9466e33cf0281c405d9ee962",
+  "edition": 543,
+  "date": 1672317916771,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly red"
+    }
+  ]
+}

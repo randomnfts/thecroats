@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1731",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1731.png",
+  "dna": "6efaca0837207b5809e919e9c3a5d0742b6f064b",
+  "edition": 1731,
+  "date": 1672317766036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

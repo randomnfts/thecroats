@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #374",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/374.png",
+  "dna": "44a780edd27e1808e40145f157925cc9b5cec9d4",
+  "edition": 374,
+  "date": 1672317771467,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic shades"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Clown nose"
+    }
+  ]
+}

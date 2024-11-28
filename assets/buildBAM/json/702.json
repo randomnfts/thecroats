@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #702",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/702.png",
+  "dna": "bd284db7fc3d63a9f63bd9cd62613df7a34f72ec",
+  "edition": 702,
+  "date": 1672317921370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight"
+    }
+  ]
+}

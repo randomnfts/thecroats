@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1684",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1684.png",
+  "dna": "cb5c8c9c263f3e13b933ea07e5f663244d28470b",
+  "edition": 1684,
+  "date": 1672317921431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half shaved"
+    }
+  ]
+}

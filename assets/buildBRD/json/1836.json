@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1836",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1836.png",
+  "dna": "b3d9ada81210d3acc84b47fe9e62e59ec13f0060",
+  "edition": 1836,
+  "date": 1672317772142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cardinal"
+    }
+  ]
+}

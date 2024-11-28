@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #214",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/214.png",
+  "dna": "72779600e31a83c26765239dc0b29ad1f83a9ce5",
+  "edition": 214,
+  "date": 1672317921320,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bob"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Bubble gum"
+    }
+  ]
+}

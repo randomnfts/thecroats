@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #389",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/389.png",
+  "dna": "ef408d037fc32de54f4b9b9a7865ae71d33915cf",
+  "edition": 389,
+  "date": 1672317774346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife"
+    }
+  ]
+}

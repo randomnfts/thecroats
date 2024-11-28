@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #889",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/889.png",
+  "dna": "b4fd3e757f6323ee8be60490169ab29e76bb30ae",
+  "edition": 889,
+  "date": 1672317919030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pigtails"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #341",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/341.png",
+  "dna": "eb1226b1a7f6d30394e8de98ff44a4e526e51160",
+  "edition": 341,
+  "date": 1672317920873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Winter hat"
+    }
+  ]
+}

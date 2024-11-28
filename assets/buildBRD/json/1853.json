@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1853",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1853.png",
+  "dna": "78e7282994a0d5cf98a4b1a54f596fb1482ab7e7",
+  "edition": 1853,
+  "date": 1672317764411,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 5"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustasha"
+    }
+  ]
+}

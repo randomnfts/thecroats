@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #587",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/587.png",
+  "dna": "d2f39e1bfe56c29d8eeb58eae9f6dc02cf70a370",
+  "edition": 587,
+  "date": 1672317767534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Rosy cheeks"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustashe"
+    }
+  ]
+}

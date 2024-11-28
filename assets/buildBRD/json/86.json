@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #86",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/86.png",
+  "dna": "87afe530746b8a1ee420fc6583302c7fad53ea99",
+  "edition": 86,
+  "date": 1672317771743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Simple glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy"
+    }
+  ]
+}

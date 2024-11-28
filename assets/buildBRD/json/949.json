@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #949",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/949.png",
+  "dna": "a5a646409dd2e3ffa327555b41cbf37dc9e0c5c6",
+  "edition": 949,
+  "date": 1672317770387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck teeth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde short"
+    }
+  ]
+}

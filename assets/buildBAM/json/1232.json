@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1232",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1232.png",
+  "dna": "4ae62a4396f2d08de00bd69dfa2c0252f84c8429",
+  "edition": 1232,
+  "date": 1672317914208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short grey"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

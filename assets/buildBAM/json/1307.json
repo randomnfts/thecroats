@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1307",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1307.png",
+  "dna": "c5a3938349b95ef17a0fda49b0e636b9e3c7eddb",
+  "edition": 1307,
+  "date": 1672317911324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Strap"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}

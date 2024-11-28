@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1693",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1693.png",
+  "dna": "a36484d5f1a84dcb37141d1b5f5664a6ab0868ea",
+  "edition": 1693,
+  "date": 1672317771579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short grey"
+    }
+  ]
+}

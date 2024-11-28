@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #850",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/850.png",
+  "dna": "db8395dce38f78e9c3306969be675ceb756bf7d5",
+  "edition": 850,
+  "date": 1672317918147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vampire"
+    }
+  ]
+}

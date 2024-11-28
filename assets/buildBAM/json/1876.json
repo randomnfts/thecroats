@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1876",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1876.png",
+  "dna": "878aee5a8f580c2c1c529c1fa7836e8d854a14df",
+  "edition": 1876,
+  "date": 1672317918083,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly red"
+    }
+  ]
+}

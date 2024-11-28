@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #538",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/538.png",
+  "dna": "41426c4790707f5f73d7cc7fe6ad3c61218bdb31",
+  "edition": 538,
+  "date": 1672317918962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Winter hat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #243",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/243.png",
+  "dna": "ce2b8d25d4ffac9876875d6e781bf0824dee6b16",
+  "edition": 243,
+  "date": 1672317914470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cardinal"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

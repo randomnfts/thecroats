@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1696",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1696.png",
+  "dna": "39b4e3cc5d7a93f2596b13809145ef1d0686bcd8",
+  "edition": 1696,
+  "date": 1672317774847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly red"
+    }
+  ]
+}

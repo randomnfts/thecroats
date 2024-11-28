@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1934",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1934.png",
+  "dna": "650e9ac6620d9e0aa5ca9c7a387324963982a5f9",
+  "edition": 1934,
+  "date": 1672317918862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Medical mask"
+    }
+  ]
+}

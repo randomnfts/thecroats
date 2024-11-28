@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #254",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/254.png",
+  "dna": "ca69bb24a6d0a30a57c86653667a86fbbe0f46f9",
+  "edition": 254,
+  "date": 1672317916144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Doctor"
+    }
+  ]
+}

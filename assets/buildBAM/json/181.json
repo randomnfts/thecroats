@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #181",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/181.png",
+  "dna": "f3ea899d71278c57109def5aa115f7cea73d3a87",
+  "edition": 181,
+  "date": 1672317918395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Piercing"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy hair"
+    }
+  ]
+}

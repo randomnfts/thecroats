@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #123",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/123.png",
+  "dna": "32eee5503e349dbae93f27dcaeb722b0c15446af",
+  "edition": 123,
+  "date": 1672317920138,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife 2"
+    }
+  ]
+}

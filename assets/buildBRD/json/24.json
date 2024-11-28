@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #24",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/24.png",
+  "dna": "1fb69f98ad37a8a1cd355b46f43c5033562da439",
+  "edition": 24,
+  "date": 1672317768240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Welding goggles"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Baseball"
+    }
+  ]
+}

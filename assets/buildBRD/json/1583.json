@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1583",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1583.png",
+  "dna": "bc7e04799e99d3accc1461f0381b5e4434074255",
+  "edition": 1583,
+  "date": 1672317774714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vampire"
+    }
+  ]
+}

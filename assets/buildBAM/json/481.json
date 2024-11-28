@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #481",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/481.png",
+  "dna": "e10183f2ee936e42473652960aa28e37b6013deb",
+  "edition": 481,
+  "date": 1672317920638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde short2"
+    }
+  ]
+}

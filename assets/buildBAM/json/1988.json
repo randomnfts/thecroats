@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1988",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1988.png",
+  "dna": "8a206a0aa2b539f71042e472b90f5e72b41aae4f",
+  "edition": 1988,
+  "date": 1672317918294,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pigtails"
+    }
+  ]
+}

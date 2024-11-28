@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #337",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/337.png",
+  "dna": "251891bd8bacacf4701456fc609f9179d1b47259",
+  "edition": 337,
+  "date": 1672317910750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fireman"
+    }
+  ]
+}

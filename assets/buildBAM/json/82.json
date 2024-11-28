@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #82",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/82.png",
+  "dna": "60fad697bcbda8a244aff7975d7fd3f3dafd2c2d",
+  "edition": 82,
+  "date": 1672317918067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Nurse"
+    }
+  ]
+}

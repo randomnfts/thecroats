@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #604",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/604.png",
+  "dna": "53de72fbec9bd59311c1ff24146b192b337c45f5",
+  "edition": 604,
+  "date": 1672317918255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green eyeshadow"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long curly"
+    }
+  ]
+}

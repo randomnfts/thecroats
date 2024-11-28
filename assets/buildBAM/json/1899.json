@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1899",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1899.png",
+  "dna": "21c370a8415dcea9e8524eb7ba307b237bb02bea",
+  "edition": 1899,
+  "date": 1672317911939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Mole"
+    }
+  ]
+}

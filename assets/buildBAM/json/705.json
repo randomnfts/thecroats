@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #705",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/705.png",
+  "dna": "5479d0659ce91e6d87204c825178456e7fc5ef92",
+  "edition": 705,
+  "date": 1672317910544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    }
+  ]
+}

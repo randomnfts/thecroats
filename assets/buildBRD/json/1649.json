@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1649",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1649.png",
+  "dna": "66217e9626df095e0a563dfad5966eb1d288b555",
+  "edition": 1649,
+  "date": 1672317775607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde 2"
+    }
+  ]
+}

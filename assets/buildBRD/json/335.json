@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #335",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/335.png",
+  "dna": "88251fc1c1183be8d400e067d83d597136ef1a2f",
+  "edition": 335,
+  "date": 1672317775003,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pigtails"
+    }
+  ]
+}

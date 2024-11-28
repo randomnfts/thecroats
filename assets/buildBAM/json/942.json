@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #942",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/942.png",
+  "dna": "1ebe94ca51b95906a4c3f83156e2ee2fdf6bcf55",
+  "edition": 942,
+  "date": 1672317914321,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Welding goggles"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stringy"
+    }
+  ]
+}

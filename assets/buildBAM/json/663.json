@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #663",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/663.png",
+  "dna": "a682dd6d98da2bc3da7d7be176537d0ec63a7124",
+  "edition": 663,
+  "date": 1672317911514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #258",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/258.png",
+  "dna": "538227ae6f39f21faf9303c61faf6dbf3e518b03",
+  "edition": 258,
+  "date": 1672317921574,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde 2"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Medical mask"
+    }
+  ]
+}

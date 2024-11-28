@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1777",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1777.png",
+  "dna": "a2cf70d6751f002515b8be51a9c41079e3f1b7a7",
+  "edition": 1777,
+  "date": 1672317916014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Rosy cheeks"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bearskin"
+    }
+  ]
+}

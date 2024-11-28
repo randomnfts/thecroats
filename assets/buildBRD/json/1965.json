@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1965",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1965.png",
+  "dna": "d175aebfbd13204e53ad3fe6dcac2b06b2c083a4",
+  "edition": 1965,
+  "date": 1672317775178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy hair"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

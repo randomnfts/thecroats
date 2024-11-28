@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1299",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1299.png",
+  "dna": "5909c8dd1a6cad1d641ed0d4e2df53f5038d49b8",
+  "edition": 1299,
+  "date": 1672317920405,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Medical mask"
+    }
+  ]
+}

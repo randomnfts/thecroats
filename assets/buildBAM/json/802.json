@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #802",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/802.png",
+  "dna": "eca47ba39228397805798b4af191854a3fca3da3",
+  "edition": 802,
+  "date": 1672317915583,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Doctor"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #957",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/957.png",
+  "dna": "797f92e48274918d2f840b2ad87714e4ee304b30",
+  "edition": 957,
+  "date": 1672317919163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark 2"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Bubble gum"
+    }
+  ]
+}

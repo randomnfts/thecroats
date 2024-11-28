@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1952",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1952.png",
+  "dna": "eb96072ad2a2628e5278d6dbcea7004fa75ef89d",
+  "edition": 1952,
+  "date": 1672317914063,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sibenik"
+    }
+  ]
+}

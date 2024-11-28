@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #846",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/846.png",
+  "dna": "7456e6df068458529c47e4f5916fc84c3993bb34",
+  "edition": 846,
+  "date": 1672317772061,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski googles"
+    }
+  ]
+}

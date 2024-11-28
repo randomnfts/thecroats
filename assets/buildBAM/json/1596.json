@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1596",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1596.png",
+  "dna": "1dfb47a8b2333c38ac4f9adf290c843538fe5508",
+  "edition": 1596,
+  "date": 1672317913872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cardinal"
+    }
+  ]
+}

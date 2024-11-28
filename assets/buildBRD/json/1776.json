@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1776",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1776.png",
+  "dna": "eba63f27f93207a9f38f7e6d5e244d7453df9e89",
+  "edition": 1776,
+  "date": 1672317773260,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vampire"
+    }
+  ]
+}

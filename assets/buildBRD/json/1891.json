@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1891",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1891.png",
+  "dna": "d9e132567f5f3df15166894a5d52e1cb69a344d9",
+  "edition": 1891,
+  "date": 1672317768633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Doctor"
+    }
+  ]
+}

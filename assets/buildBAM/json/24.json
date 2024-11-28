@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #24",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/24.png",
+  "dna": "7e005a4b53015970d3408603a8fe1d685056e9f4",
+  "edition": 24,
+  "date": 1672317918924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vampire"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1871",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1871.png",
+  "dna": "ad3cfe7a3d8ffdcbf1f8e8fa53e9452ddf90644e",
+  "edition": 1871,
+  "date": 1672317913436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Simple glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    }
+  ]
+}

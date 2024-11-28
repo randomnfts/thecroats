@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1636",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1636.png",
+  "dna": "d188e3b4677191c4d26035e8504cfa781f4ad4c8",
+  "edition": 1636,
+  "date": 1672317765234,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustasha"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Mask"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1071",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1071.png",
+  "dna": "ca13bf8e5d3811474fb7ec7b0c731bfb9839b463",
+  "edition": 1071,
+  "date": 1672317766011,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Clown nose"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustasha"
+    }
+  ]
+}

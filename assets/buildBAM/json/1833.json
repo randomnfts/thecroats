@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1833",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1833.png",
+  "dna": "aeb2cdb8382a3fd3794a86a99e756b73daad1f71",
+  "edition": 1833,
+  "date": 1672317916855,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple eyeshadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight blonde"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

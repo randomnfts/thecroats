@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1163",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1163.png",
+  "dna": "20f6ea647a13780e179a6e81ad6716ec9ce235cb",
+  "edition": 1163,
+  "date": 1672317767692,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Medical mask"
+    }
+  ]
+}

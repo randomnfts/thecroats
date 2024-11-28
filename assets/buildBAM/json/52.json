@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #52",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/52.png",
+  "dna": "a7fee9d9a6ab10216555c868016e4b4cdba021f8",
+  "edition": 52,
+  "date": 1672317911740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaved"
+    }
+  ]
+}

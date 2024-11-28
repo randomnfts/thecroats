@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #622",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/622.png",
+  "dna": "ad99c8de793bfe46d05b1169e1fc5c04701ab05e",
+  "edition": 622,
+  "date": 1672317773925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange side"
+    }
+  ]
+}

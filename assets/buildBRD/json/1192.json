@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1192",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1192.png",
+  "dna": "9d1e13d2fef4334afebb33746d4bd57b706cf656",
+  "edition": 1192,
+  "date": 1672317770629,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Baseball"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1.png",
+  "dna": "a602f2cec5c032a13510f8b8f2253b82d418426a",
+  "edition": 1,
+  "date": 1672317916187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Croarmy"
+    }
+  ]
+}

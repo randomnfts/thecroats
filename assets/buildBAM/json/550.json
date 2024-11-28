@@ -1,0 +1,38 @@
+{
+  "name": "The Croats #550",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/550.png",
+  "dna": "62240362883899871d9b5ef8313d40c027ac0654",
+  "edition": 550,
+  "date": 1672317914399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Standard grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Welding goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Doctor"
+    }
+  ]
+}

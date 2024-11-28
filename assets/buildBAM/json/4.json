@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #4",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/4.png",
+  "dna": "7f6d843c464dedfc80b86a72c4ed1d83f2bf9bb2",
+  "edition": 4,
+  "date": 1672317914516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cap forward"
+    }
+  ]
+}

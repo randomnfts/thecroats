@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #633",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/633.png",
+  "dna": "8cce0f648c68ae788f7b1e13bc4f46065f225658",
+  "edition": 633,
+  "date": 1672317911770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Simple glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #357",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/357.png",
+  "dna": "d27a98030d0f05ee92908115d1443be2cedf63dc",
+  "edition": 357,
+  "date": 1672317766340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ustashe"
+    }
+  ]
+}

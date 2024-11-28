@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1396",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1396.png",
+  "dna": "389f4b77ac1eb721111bcf56611e0349ddb90327",
+  "edition": 1396,
+  "date": 1672317912412,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Top hat"
+    }
+  ]
+}

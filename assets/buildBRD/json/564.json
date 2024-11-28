@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #564",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/564.png",
+  "dna": "59d649918c19e3588ce5b661e7117d517d749191",
+  "edition": 564,
+  "date": 1672317765125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pioneer"
+    }
+  ]
+}

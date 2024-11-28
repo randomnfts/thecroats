@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1908",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1908.png",
+  "dna": "833afb56af0f6e0c993c4abd0e0b7b6078d3d40c",
+  "edition": 1908,
+  "date": 1672317772788,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 5"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half shaved"
+    }
+  ]
+}

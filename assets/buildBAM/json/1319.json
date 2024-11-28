@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1319",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1319.png",
+  "dna": "804d30e7120af6ea7276edcc113858120a4b6db7",
+  "edition": 1319,
+  "date": 1672317921778,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hot lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigar"
+    }
+  ]
+}

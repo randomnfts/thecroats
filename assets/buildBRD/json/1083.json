@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1083",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1083.png",
+  "dna": "2e3889578bbed660b1b23885572e413eaf75001a",
+  "edition": 1083,
+  "date": 1672317769971,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Standard dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cardinal"
+    }
+  ]
+}

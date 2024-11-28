@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1698",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1698.png",
+  "dna": "783eb6891b82b4de8331871eb56266b3559ef45e",
+  "edition": 1698,
+  "date": 1672317917829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half shaved"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigar"
+    }
+  ]
+}

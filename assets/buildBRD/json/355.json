@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #355",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/355.png",
+  "dna": "1466e9a9eeb3303a7fb153dbe2c91cca47ec42d5",
+  "edition": 355,
+  "date": 1672317774392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigar"
+    }
+  ]
+}

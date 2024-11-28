@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1280",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1280.png",
+  "dna": "bf19376577b7cc3eac1f29f7d1af314d2d61bf3b",
+  "edition": 1280,
+  "date": 1672317915053,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Simple glasses"
+    }
+  ]
+}

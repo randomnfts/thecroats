@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1843",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1843.png",
+  "dna": "257e129c367e07c5815bb01401d1d8386c7bac13",
+  "edition": 1843,
+  "date": 1672317774185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark 2"
+    }
+  ]
+}

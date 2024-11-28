@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1124",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1124.png",
+  "dna": "e802d1808a0a1555b59760fb501cd54487c25556",
+  "edition": 1124,
+  "date": 1672317917052,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    }
+  ]
+}

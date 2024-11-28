@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #355",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/355.png",
+  "dna": "6b8870d58c175b391863b42c2ae50c6759b393c4",
+  "edition": 355,
+  "date": 1672317917269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife"
+    }
+  ]
+}

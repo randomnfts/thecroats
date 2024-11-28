@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #7",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/7.png",
+  "dna": "8698d71a87bca3379e685447b1b3e01d5903da3c",
+  "edition": 7,
+  "date": 1672317768776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cap forward"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

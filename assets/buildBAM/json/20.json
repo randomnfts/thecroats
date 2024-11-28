@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #20",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/20.png",
+  "dna": "a23401e662b5e32c1dd486c1443f6b3277461185",
+  "edition": 20,
+  "date": 1672317912904,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

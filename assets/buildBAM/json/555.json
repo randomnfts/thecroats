@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #555",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/555.png",
+  "dna": "b7f8b4e36bcc7dda3f263c3a05d10d6b215ae190",
+  "edition": 555,
+  "date": 1672317917528,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1973",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1973.png",
+  "dna": "550f528c7c3ba80d886cf03ef630c8f3033a7455",
+  "edition": 1973,
+  "date": 1672317773764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half shaved"
+    }
+  ]
+}

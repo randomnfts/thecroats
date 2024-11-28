@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1980",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1980.png",
+  "dna": "648776b985f30a021fc0cdc1c33fdfb454d7dc66",
+  "edition": 1980,
+  "date": 1672317916276,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}

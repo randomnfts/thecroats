@@ -1,0 +1,18 @@
+{
+  "name": "The Croats #488",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/488.png",
+  "dna": "431b1eb83d9fd35bf3b750f4451ad3307142dfc8",
+  "edition": 488,
+  "date": 1672317911058,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    }
+  ]
+}

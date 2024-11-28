@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1445",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1445.png",
+  "dna": "32fe41878d573b16908a85d7cb3c20e751baa773",
+  "edition": 1445,
+  "date": 1672317916676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Nurse"
+    }
+  ]
+}

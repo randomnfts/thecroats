@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1617",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1617.png",
+  "dna": "b65a6143f42a70eeaf010f0f03e7605203e09cfc",
+  "edition": 1617,
+  "date": 1672317767985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}

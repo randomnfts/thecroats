@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1820",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1820.png",
+  "dna": "832befa34cb4d5542909702d3ea7b97a3cf3cf66",
+  "edition": 1820,
+  "date": 1672317913536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic shades"
+    }
+  ]
+}

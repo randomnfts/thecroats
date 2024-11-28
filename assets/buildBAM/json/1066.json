@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1066",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1066.png",
+  "dna": "d989d0f583b303fd62b0ce02b71730fce0945cb5",
+  "edition": 1066,
+  "date": 1672317911264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown glasses"
+    }
+  ]
+}

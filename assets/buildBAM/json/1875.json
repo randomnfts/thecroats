@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1875",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1875.png",
+  "dna": "a8da471b0a31e1c775c9bf5492990c4f7a20afee",
+  "edition": 1875,
+  "date": 1672317913933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    }
+  ]
+}

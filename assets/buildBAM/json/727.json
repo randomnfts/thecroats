@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #727",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/727.png",
+  "dna": "294c7a71ac21afb5d23c9f22cf0be404d8de29f6",
+  "edition": 727,
+  "date": 1672317914742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild"
+    }
+  ]
+}

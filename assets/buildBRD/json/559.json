@@ -1,0 +1,18 @@
+{
+  "name": "The Croats #559",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/559.png",
+  "dna": "b11a34d71ad7ba5bc0cb6c97fb87e50c83c7f9d4",
+  "edition": 559,
+  "date": 1672317772184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    }
+  ]
+}

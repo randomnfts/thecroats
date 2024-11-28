@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1951",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1951.png",
+  "dna": "4dfaa899f59f4f2a4a5e63a09d4ed233ff5f5c49",
+  "edition": 1951,
+  "date": 1672317915600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy"
+    }
+  ]
+}

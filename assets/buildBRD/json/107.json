@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #107",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/107.png",
+  "dna": "0b3116722fea7c097764d47db861406c4edf5bf2",
+  "edition": 107,
+  "date": 1672317769366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sibenik"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

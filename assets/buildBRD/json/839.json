@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #839",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/839.png",
+  "dna": "daf342b2d6dcab59ad4c9729d1bea143dce47472",
+  "edition": 839,
+  "date": 1672317774103,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Serbian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde 2"
+    }
+  ]
+}

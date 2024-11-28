@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #108",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/108.png",
+  "dna": "e35547345b11914c785c0685835e345485cc6615",
+  "edition": 108,
+  "date": 1672317768930,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slovenian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

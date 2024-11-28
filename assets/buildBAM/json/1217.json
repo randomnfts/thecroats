@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1217",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1217.png",
+  "dna": "db52e9bd9d2c61900bc0ae9c44d1e42e321b8051",
+  "edition": 1217,
+  "date": 1672317912687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    }
+  ]
+}

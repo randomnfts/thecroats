@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1822",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzak7qt5hvs6lsgc6pb4nb62u6tusqyukljsgm7pigejahczr5xbcxq.bzz.link/1822.png",
+  "dna": "fa47ae78a832311e36c01edf7b952071498870b6",
+  "edition": 1822,
+  "date": 1672317769139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bosnian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild"
+    }
+  ]
+}

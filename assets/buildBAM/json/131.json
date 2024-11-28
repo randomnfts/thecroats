@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #131",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/131.png",
+  "dna": "a2762d7cafcf5f97a5d4cc698894c441fdb776f2",
+  "edition": 131,
+  "date": 1672317916697,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Frankenstein2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild blonde"
+    }
+  ]
+}

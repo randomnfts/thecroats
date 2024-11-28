@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1974",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzauk6v6vhgrcl4s2p3vevifwzmzw255vrkibv36uubzg7jnkpdzm2a.bzz.link/1974.png",
+  "dna": "5f9acf55da7c81acbfb3a48b7f2ee5888e755748",
+  "edition": 1974,
+  "date": 1672317916353,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}
